@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Amoxicillin",
+      "description": "A penicillin-type antibiotic used to treat a variety of bacterial infections."
+    },
+    {
+      "name": "Ibuprofen",
+      "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain, inflammation, and fever."
+    },
+    {
+      "name": "Paracetamol",
+      "description": "A common painkiller used to treat aches and pain. It can also be used to reduce a high temperature."
+    },
+    {
+      "name": "Aspirin",
+      "description": "An NSAID used to treat pain, fever, or inflammation."
+    }
+  ]
+  
