@@ -12,7 +12,7 @@ import inventory from "../lib/inventory.json"
 export default function Home() {
 	return (
 		<main className="flex min-h-screen flex-col items-center justify-between p-4">
-			<div className="flex flex-col space-y-2 h-screen">
+			<div className="flex flex-col space-y-2 h-[50vh]">
 				<SearchFeature inventory={inventory}/>
 				
 			</div>

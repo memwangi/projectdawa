@@ -1,19 +1,102 @@
 [
-    {
+  {
+      "id": 1,
       "name": "Amoxicillin",
-      "description": "A penicillin-type antibiotic used to treat a variety of bacterial infections."
-    },
-    {
+      "description": "An antibiotic used to treat a number of bacterial infections."
+  },
+  {
+      "id": 2,
       "name": "Ibuprofen",
-      "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain, inflammation, and fever."
-    },
-    {
+      "description": "A medication used to relieve pain, swelling, and inflammation."
+  },
+  {
+      "id": 3,
       "name": "Paracetamol",
-      "description": "A common painkiller used to treat aches and pain. It can also be used to reduce a high temperature."
-    },
-    {
+      "description": "A commonly used medicine that can help treat pain and reduce a high temperature (fever)."
+  },
+  {
+      "id": 4,
       "name": "Aspirin",
-      "description": "An NSAID used to treat pain, fever, or inflammation."
-    }
-  ]
-  
+      "description": "A salicylate (sa-LIS-il-ate) that is used to treat pain, and reduce fever or inflammation."
+  },
+  {
+      "id": 5,
+      "name": "Citalopram",
+      "description": "An antidepressant belonging to a group of drugs called selective serotonin reuptake inhibitors (SSRIs)."
+  },
+  {
+      "id": 6,
+      "name": "Amlodipine",
+      "description": "A medicine used to treat high blood pressure and prevent chest pain caused by angina."
+  },
+  {
+      "id": 7,
+      "name": "Simvastatin",
+      "description": "A statin, a type of drug that lowers cholesterol in the body by blocking the enzyme in the liver that makes cholesterol."
+  },
+  {
+      "id": 8,
+      "name": "Omeprazole",
+      "description": "A proton pump inhibitor that decreases the amount of acid produced in the stomach."
+  },
+  {
+      "id": 9,
+      "name": "Lansoprazole",
+      "description": "Used to treat certain stomach and esophagus problems (such as acid reflux, ulcers)."
+  },
+  {
+      "id": 10,
+      "name": "Losartan",
+      "description": "Used to treat high blood pressure (hypertension) and to help protect the kidneys from damage due to diabetes."
+  },
+  {
+      "id": 11,
+      "name": "Hydrochlorothiazide",
+      "description": "A diuretic medication often used to treat high blood pressure and swelling due to fluid build up."
+  },
+  {
+      "id": 12,
+      "name": "Metformin",
+      "description": "A first-line medication for the treatment of type 2 diabetes."
+  },
+  {
+      "id": 13,
+      "name": "Atorvastatin",
+      "description": "A medication used to prevent cardiovascular disease and treat abnormal lipid levels."
+  },
+  {
+      "id": 14,
+      "name": "Albuterol",
+      "description": "A medication that opens up the airways in the lungs."
+  },
+  {
+      "id": 15,
+      "name": "Gabapentin",
+      "description": "A medication used to treat epilepsy, neuropathic pain, hot flashes, and restless legs syndrome."
+  },
+  {
+      "id": 16,
+      "name": "Sertraline",
+      "description": "A selective serotonin reuptake inhibitor (SSRI) used to treat depression, obsessive-compulsive disorder, panic disorder and anxiety."
+  },
+  {
+      "id": 17,
+      "name": "Furosemide",
+      "description": "A medication used to treat fluid build-up due to heart failure, liver scarring, or kidney disease."
+  },
+  {
+      "id": 18,
+      "name": "Zolpidem",
+      "description": "A medication primarily used for the short-term treatment of sleeping problems."
+  },
+  {
+      "id": 19,
+      "name": "Lisinopril",
+      "description": "A medication of the angiotensin-converting enzyme (ACE) inhibitor class used to treat high blood pressure, heart failure, and after heart attacks."
+  },
+  {
+      "id": 20,
+      "name": "Meloxicam",
+      "description": "A nonsteroidal anti-inflammatory drug used to treat pain or inflammation caused by arthritis."
+  }
+]
