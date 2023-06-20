@@ -11,8 +11,8 @@ import inventory from "../lib/inventory.json"
 
 export default function Home() {
 	return (
-		<main className="flex min-h-screen flex-col items-center justify-between p-4">
-			<div className="flex flex-col space-y-2 h-[50vh]">
+		<main className="container grid items-center gap-6 pb-8 pt-6">
+			<div className="flex max-w-[980px] flex-col items-center gap-2">
 				<SearchFeature inventory={inventory}/>
 				
 			</div>

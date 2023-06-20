@@ -14,12 +14,17 @@ const SearchBar: FC<SearchBarProps> = ({ onSearch }) => {
 	};
 
 	return (
-		<Input
+		<div className="pb-4">
+			<Input
 			type="text"
 			placeholder="Search for a prescription..."
 			value={searchTerm}
 			onChange={handleSearchChange}
 		/>
+
+		</div>
+		
+		
 	);
 };
 
